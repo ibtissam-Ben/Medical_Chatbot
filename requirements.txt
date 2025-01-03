@@ -1,0 +1,10 @@
+openai
+langchain
+chromadb
+flask
+scrapy
+beautifulsoup4
+requests
+python-dotenv
+sentence-transformers
+flask-cors
